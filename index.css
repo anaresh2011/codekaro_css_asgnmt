@@ -47,11 +47,71 @@
     margin: 20px auto;
 }
 
-.hyperlink {
+.linkatag {
     box-sizing: border-box;
-    color: blue;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 300px;
     padding: 25px;
     margin: 10px;
+}
+
+.photoClick {
+    border: 1px solid rgb(250, 246, 246);
+    border-radius: 15px;
+    width: 500px;
+    padding: 40px;
+    margin: 10px auto;
+}
+
+.camera_pic {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.loginForm {
+    width: 300px;
+    border: 1px solid white;
+    padding: 30px auto;
+    margin: 10px auto;
+}
+
+.title_loginform {
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.subtitle_loginform {
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+
+.text_field {
+    box-sizing: border-box;
+    width: 70%;
+    padding: 5px;
+    margin: 20px auto;
+    text-align: center;
+}
+.formclasslogin {
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+   
+}
+
+.btn_form {
+    box-sizing: border-box;
+    border: 1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 30px;
+    width: 70%;
+    padding: 15px;
+    margin: 5px;
 }
